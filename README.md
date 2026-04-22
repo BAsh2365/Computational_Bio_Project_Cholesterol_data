@@ -76,6 +76,3 @@ Mathematical Biosciences 262 (2015) 167–181”Adrian C. Pratt a,b, Jonathan A.
 Prediction of LDL Cholesterol Lowering by PCSK9 
 Antagonism in Human Dyslipidemic Populations
 K Gadkar1, N Budha1, A Baruch1, JD Davis1, P Fielder1 and S Ramanujan1
-
-
-### note: there may be some spelling errors. This is a fun mathematical data analysis/ML project with use of AI assistance.
